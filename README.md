@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraToth&layout=compact&theme=tokyonight)
 
+### 🛠 Technologies & Frameworks
+- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Frameworks / Libraries:** React, Node.js, Express
+- **Databases / Query Languages:** SQL, Prisma
+- **Tools / Other:** Git, Jest, Webpack
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
