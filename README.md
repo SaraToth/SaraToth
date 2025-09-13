@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 How to reach me: saratoth.careers@gmail.com
-🔭 I’m currently working on a language learning app for better foreign language vocabulary acquistion. 
-🌱 I’m currently learning Typescript.
+- 📫 How to reach me: saratoth.careers@gmail.com
+- 🔭 I’m currently working on a language learning app for better foreign language vocabulary acquistion. 
+- 🌱 I’m currently learning Typescript.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraToth&layout=compact&theme=tokyonight)
 
