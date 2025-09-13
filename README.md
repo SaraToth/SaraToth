@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Sara
 
 <!--
 **SaraToth/SaraToth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 How to reach me: saratoth.careers@gmail.com
+- - 🔭 I’m currently working on a language learning app for better foreign language vocabulary acquistion. 
+- 🌱 I’m currently learning Typescript.
+- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraToth&layout=compact&theme=tokyonight)
 
 ### 🛠 Technologies & Frameworks
@@ -22,25 +26,16 @@ Here are some ideas to get you started:
 - **Databases / Query Languages:** SQL, Prisma
 - **Tools / Other:** Git, Jest, Webpack
 
+### 💼 Other Skills & Experience
+- **Marketing:** SEO, UI/UX principles, analytics, customer perspective
+- **Education:** 9 years English as a foreign language education, curriculum planning, cross-cultural communication
+- **Science & Research:** B.Sc Biochemistry (Pre-Med), 2 years of professional chemistry research
+- **Foreign Language:** Native in American English, Advanced Korean, Limited Working proficiency in French
+- **Other:** 6 Years in Emergnecy First Response & Crisis Management
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" width="30" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="30" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="30" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" alt="Webpack" width="30" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" width="30" height="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" width="30" height="30"/>
+### Passions & Interests
+- **Healthcare** - Emergency response, emergency services, patient data or portal management software, biotech apps, nutrition and fitness apps
+- **EdTech** - Passionate about working on anyting related to education, especially foreign langauge education, math and the physical sciences
+- **Travel & Immigration** - Immigration services, visa application and management, travel planning, hotels and flight booking service
 
-          
-          
-          
-          
-          
-          
 </p>
